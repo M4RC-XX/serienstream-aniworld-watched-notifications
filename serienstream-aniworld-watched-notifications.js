@@ -1,7 +1,8 @@
 // ==UserScript==
 // @name            SerienStream / AniWorld - Watched Notitifications
-// @description     SerienStream / AniWorld - Watched Notitifications
-// @version         1.1
+// @description  Marks the read notifications in color
+// @namespace    https://github.com/M4RC-XX
+// @version         1.0
 // @author			M-XRC-XX
 // @icon            https://s.to/favicon-32x32.png
 // @match           https://*.to/account/notifications
